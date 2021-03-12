@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
       title: 'Curso Git',
       theme: ThemeData(
 
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Rama Principal'),
+      home: MyHomePage(title: 'Rama appBar'),
     );
   }
 }
