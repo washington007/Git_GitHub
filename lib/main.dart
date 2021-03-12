@@ -12,9 +12,9 @@ class MyApp extends StatelessWidget {
       title: 'Curso Git',
       theme: ThemeData(
 
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Rama Principal'),
+      home: MyHomePage(title: 'Curso Git y GitHub'),
     );
   }
 }
@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
 
-        title: Text(widget.title),
+        title: Text(widget.title,style: TextStyle(backgroundColor: Colors.blueGrey),),
       ),
       body: Center(
 
