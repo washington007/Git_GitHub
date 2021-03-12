@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Curso Git y GitHub'),
+      home: MyHomePage(title: 'GitHub vs GitLab'),
     );
   }
 }
