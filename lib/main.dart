@@ -11,11 +11,12 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Curso Git y GitHub',
       theme: ThemeData(
+backgroundColor: Colors.blueGrey,
 
         primarySwatch: Colors.blue,
       ),
 
-      home: MyHomePage(title: 'Espero te este gustando el curso'),
+      home: MyHomePage(title: 'Curso Git y GitHub'),
 
     );
   }
@@ -44,8 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-
-        title: Text(widget.title,style: TextStyle(backgroundColor: Colors.blueGrey),),
+        title: Text(widget.title,),
       ),
       body: Center(
 
@@ -53,20 +53,18 @@ class _MyHomePageState extends State<MyHomePage> {
 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'Boton Presionado.',
-            ),
+            Text('Boton Presionado',style: TextStyle(color: Colors.blueAccent, fontSize: 50),),
             Text(
               '$_counter',
-              style: Theme.of(context).textTheme.headline4,
+              style: TextStyle(color: Colors.blueAccent,fontSize: 500 ),
             ),
           ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Contactos',
-        child: Icon(Icons.account_box),
+        tooltip: 'sumar',
+        child: Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
