@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
 
-      home: MyHomePage(title: 'GitHub vs GitLab'),
+      home: MyHomePage(title: 'Apenas empieza lo bueno'),
 
     );
   }
