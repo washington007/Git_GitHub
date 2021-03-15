@@ -58,6 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: TextStyle(color: Colors.blueAccent,fontSize: 200 ),
             ),
+            Image.asset('assets/images/logo_capdesis.png',height: 200,width: 200,color: Colors.amber,),
           ],
         ),
       ),
