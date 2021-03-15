@@ -53,10 +53,10 @@ class _MyHomePageState extends State<MyHomePage> {
 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text('Boton Presionado',style: TextStyle(color: Colors.blueAccent, fontSize: 50),),
+            Text('Botón Presionado',style: TextStyle(color: Colors.blueAccent, fontSize: 40),),
             Text(
               '$_counter',
-              style: TextStyle(color: Colors.blueAccent,fontSize: 500 ),
+              style: TextStyle(color: Colors.blueAccent,fontSize: 200 ),
             ),
           ],
         ),
