@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
 
-      home: MyHomePage(title: 'Apenas empieza lo bueno'),
+      home: MyHomePage(title: 'Empieza lo bueno'),
 
     );
   }
