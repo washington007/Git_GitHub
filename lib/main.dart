@@ -11,13 +11,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Curso Git y GitHub',
       theme: ThemeData(
-backgroundColor: Colors.blueGrey,
-
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
-
-      home: MyHomePage(title: 'Cambio hecho por joseCapdesis xD'),
-
+      home: MyHomePage(title: 'Curso Git & GitHub'),
     );
   }
 }
@@ -66,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _incrementCounter,
         tooltip: 'sumar',
         child: Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      ), 
     );
   }
 }
