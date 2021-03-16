@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Curso Git y GitHub',
+      title: 'Git y GitHub',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
@@ -68,3 +68,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+//Jorge Salgado
