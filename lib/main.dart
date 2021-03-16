@@ -55,6 +55,8 @@ class _MyHomePageState extends State<MyHomePage> {
               style: TextStyle(color: Colors.blueAccent,fontSize: 90 ),
             ),
             Image.asset('assets/images/logo_capdesis.png',height: 190,width: 190,color: Colors.amber,),
+            Text('Curso Git y Github de Cero a Experto',style: TextStyle(color: Colors.grey, fontSize: 30),),
+            Image.asset('assets/images/curso_git_github.png'),
           ],
         ),
       ),
