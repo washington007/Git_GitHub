@@ -18,6 +18,11 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+> Curso de Git y GitHub de Capdesis, la herramienta que todo desarrollador de software tiene que dominar
+> 
+En este curso vemos desde lo más básico hasta lo más avanzado en entornos reales
+* Esto es un ejemplo del curso, no tomar en serio :)
+
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
