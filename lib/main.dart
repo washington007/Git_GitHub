@@ -18,13 +18,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//Rama Experimental (Experimento 1)
-
-//Rama Experimental (Experimento 2)
-
-//Main 1
-//Main (Commit 2)
-
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
