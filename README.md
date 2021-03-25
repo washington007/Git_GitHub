@@ -27,5 +27,9 @@ En este curso vemos desde lo más básico hasta lo más avanzado en entornos rea
 App creada para el curso de Git y GitHub.
 *Curso Creado por CAPDESIS.
 *Instructor Jorge Salgado Miranda
+*Incluye Solucion de Dudas.
+*Con Ejemplos reales y trabajo en Equipo (Con ejemplos)
+*Para todo tipo de Programador (Móvil, Web, etc).
+
 
 
