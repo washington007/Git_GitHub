@@ -23,9 +23,9 @@ A few resources to get you started if this is your first Flutter project:
 En este curso vemos desde lo más básico hasta lo más avanzado en entornos reales
 * Esto es un ejemplo del curso, no tomar en serio :)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # AppCursoGit
 App creada para el curso de Git y GitHub.
-# Git_GitHub
+*Curso Creado por CAPDESIS.
+*Instructor Jorge Salgado Miranda
+
+
