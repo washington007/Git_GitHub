@@ -29,5 +29,7 @@ App creada para el curso de Git y GitHub.
 *Instructor Jorge Salgado Miranda
 *Incluye Solucion de Dudas.
 *Con Ejemplos reales y trabajo en Equipo (Con ejemplos)
+*Para todo tipo de Programador (Móvil, Web, etc).
+
 
 
